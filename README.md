@@ -46,3 +46,9 @@ A list of technologies used within the project:
 
 - Jupyter Notebook : Version 6.1.4
 - Python: Version 3.8
+
+## To Do's
+
+- Improve the model
+- Explore new libraries with different models
+
